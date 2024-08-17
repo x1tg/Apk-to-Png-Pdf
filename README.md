@@ -20,6 +20,7 @@ X1na Exploit Spoofer v8!
 <h1 align="center">
 <a href="https://t.me/hackingtoolsf">Telegram</a><br>
 🔱 Join Telegram for support and contact 🔱
+  This tool convert your payloads Png Apk to Png, Exe to Png, Apk to Pdf and more.
 </h1>
 **NOTE:** 
 - Disclaimer -
