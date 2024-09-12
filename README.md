@@ -1,5 +1,5 @@
 <h1 align="center">
-X1na Exploit Spoofer v8.1!
+X1na Exploit Spoofer v8!
 </h1>
 <p align="center"> 
   <kbd>
