@@ -3,7 +3,7 @@ lane Apk to Png
 </h1>
 <p align="center"> 
   <kbd>
-<a href="https://ibb.co/RCWBM1F"><img src="https://i.ibb.co/7RdMThn/Modern-App-Portfolio-Mockup-Presentation.png" alt="Modern-App-Portfolio-Mockup-Presentation" border="0"></a>
+<a href="https://ibb.co/RCWBM1F"><img src="https://i.ibb.co/SKpd12j/SS7-PROTOCOL-2.png" alt="SS7-PROTOCOL-2" border="0"></a>
   </kbd>
 </p>
 <p align="center">
